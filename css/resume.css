@@ -1,12 +1,13 @@
-html, button, input, select, textarea {
+html, button, input, select, textarea, {
 	color:  #444;
 }
 html { 
 	font-size: 1em;
 	line-height: 1.4;
+	font-family: arvo, serif;
 }
 body {
-	background-color: #777;	
+	background-color: #999;
 }
 #wrapper{
 	max-width: 900px;
