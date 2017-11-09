@@ -8,15 +8,19 @@ html {
 body {
 	background-color: #777;	
 }
-#id=wrapper{
+#wrapper{
 	max-width: 900px;
 	min-width: 320px;
-	margin:auto;
+	margin-left:auto;
+	margin-right: auto;
 
 }
-header {
-	border: 1px #ccc;
-	border-radius: 3px;
-	box-shadow: 0px 2px 4px rgba(0,0,0,0.2);
+header {	
+}
 
+#image{
+	 border: 1px solid #ccc;
+	 border-radius: 3px;
+	 float: right;
+	 box-shadow: 0px 2px 4px rgba(0,0,0,0.2);
 }
