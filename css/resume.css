@@ -4,10 +4,11 @@ html, button, input, select, textarea, {
 html { 
 	font-size: 1em;
 	line-height: 1.4;
-	font-family: arvo, serif;
+	
 }
 body {
 	background-color: #999;
+	
 }
 #wrapper{
 	max-width: 900px;
@@ -24,4 +25,7 @@ header {
 	 border-radius: 3px;
 	 float: right;
 	 box-shadow: 0px 2px 4px rgba(0,0,0,0.2);
+}
+h1{
+	font-family: unifrakturcook, blackletter;
 }
