@@ -6,7 +6,7 @@ html {
 	line-height: 1.4;
 }
 body {
-	background-color: #999;
+	background-color: #F0FFF0;
 	
 }
 #wrapper{
@@ -36,4 +36,7 @@ h2{
 }
 header,section{
 	font-family: just-me-again-down-here, cursive;
+}
+h3{
+	float: center;
 }
