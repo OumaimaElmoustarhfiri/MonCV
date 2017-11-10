@@ -4,7 +4,6 @@ html, button, input, select, textarea, {
 html { 
 	font-size: 1em;
 	line-height: 1.4;
-	
 }
 body {
 	background-color: #999;
@@ -27,5 +26,12 @@ header {
 	 box-shadow: 0px 2px 4px rgba(0,0,0,0.2);
 }
 h1{
+	
+	font-family: unifrakturmaguntia, fantasy;
+}
+h2{
 	font-family: unifrakturcook, blackletter;
+}
+header,section{
+	font-family: just-me-again-down-here, cursive;
 }
